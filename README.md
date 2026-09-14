@@ -1,3 +1,3 @@
 # Apnacollege-demo2
-this is my first repo
+this is my first repo.
 Author:- Pracxcode
